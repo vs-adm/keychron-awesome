@@ -66,7 +66,7 @@ Note that `RGB_MATRIX_FRAMEBUFFER_EFFECTS` should also be enabled.
 That's it, it is time to compile the source
 
 ```
-qmk compile -km via
+qmk compile -km keychron
 ```
 
 Resulting firmware lays in `~/qmk_firmware` with the name like `keychron_q1_q1_ansi_stm32l432_ec11_via.hex`
